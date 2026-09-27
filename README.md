@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Demonophobia（デモノフォビア / 3DM 汉化版）完整解包工程
+#以下内容完全由AI编写
+# Demonophobia（デモノフォビア ）完整解包工程
 
 从加壳程序 `Demonophobia.exe` 中 **100% 还原** 的游戏源码与资源。
 
@@ -19,7 +19,8 @@ Demonophobia_source/
 ├─ start.ax              ← HSP3 编译产物（653,251 字节）
 ├─ packfile_list.txt     ← 打包清单
 ├─ icon7.ico             ← 图标
-├─ abura.bmp …           ← 279 张 BMP 图像资源（真实文件名）
+├─ 贴图文件/				 ← 存放解包出来的所有贴图文件
+│   └─ abura.bmp...
 ├─ _meta/
 │   ├─ _mapping.csv      ← 箱内序号 ↔ 文件名 ↔ 大小 ↔ 类型
 │   ├─ _idea_key.txt     ← IDEA 主密钥及取法
